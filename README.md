@@ -14,7 +14,10 @@ A simple yet elegant To-Do List desktop application built with **Python** and **
 - User-friendly interface with icons  
 - Easy to run and modify
 
-- 
+#Screenshot 
+![To-Do App Screenshot](screenshot.png)
+
+
 ## How to Run
 
 1. Make sure Python is installed on your system.
