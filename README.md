@@ -14,9 +14,23 @@ A simple yet elegant To-Do List desktop application built with **Python** and **
 - User-friendly interface with icons  
 - Easy to run and modify
 
+- 
 ## How to Run
 
 1. Make sure Python is installed on your system.
 2. Install PyQt5:
 ```bash
+
 pip install pyqt5
+```
+Created by Areej Al-Shelli 
+
+
+
+
+
+
+
+
+
+
